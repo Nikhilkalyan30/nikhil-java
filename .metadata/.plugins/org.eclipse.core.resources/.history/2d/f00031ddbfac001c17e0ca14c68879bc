@@ -1,0 +1,12 @@
+package additions;
+
+public class Addition {
+
+	public static void main(String[] args) {
+		int num1=56
+		int num2=65
+		System.out.println(num1+num2);
+
+	}
+
+}
